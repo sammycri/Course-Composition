@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h70Awb8oSleWr0iKY24jDOpashBTeXzP6BdFqsKNrQPekyevR9MyE/EYrFYCFnOavPCg8QNqeQVjhF5cgWyO1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sammy\\Desktop\\projetos\\Course-composition\\Course-composition\\Course-composition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Sammy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
