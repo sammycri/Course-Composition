@@ -1,0 +1,13 @@
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.csproj.AssemblyReference.cache
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.AssemblyInfoInputs.cache
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.AssemblyInfo.cs
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\bin\Debug\netcoreapp2.1\Course-composition.deps.json
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\bin\Debug\netcoreapp2.1\Course-composition.runtimeconfig.json
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\bin\Debug\netcoreapp2.1\Course-composition.runtimeconfig.dev.json
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\bin\Debug\netcoreapp2.1\Course-composition.dll
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\bin\Debug\netcoreapp2.1\Course-composition.pdb
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.dll
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.pdb
+C:\Users\Sammy\Desktop\projetos\Course-composition\Course-composition\obj\Debug\netcoreapp2.1\Course-composition.genruntimeconfig.cache
